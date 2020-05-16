@@ -1,0 +1,11 @@
+gunicorn
+Flask
+Jinja2
+Werkzeug
+opencv-python
+pillow
+h5py
+Plim
+flask_mako
+futures
+tensorflow==1.15.2
