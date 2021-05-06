@@ -8,7 +8,7 @@ h5py
 Plim
 flask_mako
 futures
-flask-cors==3.0.8
+flask-cors==3.0.9
 scikit-image==0.14.0
 numpy==1.15.2
 
